@@ -30,9 +30,9 @@ is an implementation of the algorithm defined in Damgård's paper
 "A Generalization of Paillier's Public-Key System with Applications to
 Electronic Voting".
 
-Another important feature of the library is the ease of serilisation of all
+Another important feature of the library is the ease of serialization of all
 the structs in JSON and BSON.
 
-Implements the paillier cryptosystem and threshold paillier crytposystem.
+Implements the paillier cryptosystem and threshold paillier cryptosystem.
 */
 package paillier
